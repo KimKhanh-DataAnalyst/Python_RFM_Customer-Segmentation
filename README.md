@@ -14,3 +14,8 @@ Dataset includes 4 different related tables including: transaction information, 
 
 - Returned orders dataframe: We have to filter orders that were not returned before RFM anaalysis.
 
+  <img width="498" alt="Image" src="https://github.com/user-attachments/assets/f9214240-9de9-44fd-9608-28f120b33289" />
+
+- Segmentation dataframe: 'Product ID' is not unique because some products have same Product ID but have different Product Name => drop 'Product Name' then remove duplicate records so that 'Product ID' will be unique.
+
+  
