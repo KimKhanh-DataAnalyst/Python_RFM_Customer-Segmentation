@@ -10,4 +10,4 @@ Please see the coding file attached or reach this link: https://colab.research.g
 Dataset includes 4 different related tables including: transaction information, products information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
 
 - Transaction information dataframe
-  
+  <img width="1230" alt="Image" src="https://github.com/user-attachments/assets/b58db1d4-5519-44f2-b4a9-a114a0be0e05" />[](url)
