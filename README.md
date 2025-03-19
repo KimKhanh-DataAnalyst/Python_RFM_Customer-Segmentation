@@ -11,3 +11,6 @@ Dataset includes 4 different related tables including: transaction information, 
 
 - Transaction information dataframe
   <img width="1230" alt="Image" src="https://github.com/user-attachments/assets/b58db1d4-5519-44f2-b4a9-a114a0be0e05" />[](url)
+
+- Returned orders dataframe: We have to filter orders that were not returned before RFM anaalysis.
+
